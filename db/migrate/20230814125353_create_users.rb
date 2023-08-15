@@ -7,4 +7,3 @@ class CreateUsers < ActiveRecord::Migration[6.1]
     end
   end
 end
-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
